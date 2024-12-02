@@ -1,0 +1,7 @@
+Manutencao tres coracoes;125,00;22/11/2023
+Compra de xicaras;60,50;22/11/2023
+gas;98,00;22/11/2023
+Compra de xicaras sobressalentes;120,00;22/11/2023
+Compra de canecas grandes;79,99;23/11/2023
+copo;80,00;30/11/2023
+Manutencao cafeteira;105,00;30/11/2023
